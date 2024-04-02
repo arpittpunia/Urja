@@ -1,0 +1,2 @@
+# Urja
+ Urja is a comprehensive fitness web application designed to empower users on their journey to a healthier lifestyle. It provides personalized diet plans, dynamic workout recommendations, progress tracking tools, and a supportive community platform. With Urja, users can discover curated fitness resources, track their goals, connect with like-minded individuals, and achieve long-term wellness success. Join us in harnessing the power of energy and vitality for a fitter, happier you!
